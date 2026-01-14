@@ -1,2 +1,2 @@
-# Telco-Customer-Retention-AI
-Minimizing revenue loss by predicting customer churn using CatBoost &amp; Random Forest, and identifying root causes via behavioral analysis.
+### 6. Qualitative Insight (Voice of Customer)
+![Churn Reasons](churn_reasons.png)
